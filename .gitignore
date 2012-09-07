@@ -1,0 +1,5 @@
+# all binaries ignored
+*.o
+
+# ignore the text file
+number
